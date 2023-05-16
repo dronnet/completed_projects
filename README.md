@@ -1,2 +1,18 @@
 # completed_projects
 same projects with analysis, preprocessing, building models and testing
+
+Research_reliability_borrowers_02_05_2022
+Research_sale_apartm_23_05_2022
+Research_film_13_06_2022
+Tariff_recommendation_01_08_2022
+Churn_clients_21_08_2022
+location_oil_well_11_09_2022
+Churn_clients_hotel_26_09_2022
+Protection_data_clients_13_01_2023
+cost_cars_23_01_2023
+Star_temperature_pred_27_03_2023
+accident_risk_02_04_2023
+Taxi_Order_Prediction_18_04_2023 
+Find_toxic_03_05_2023
+
+
